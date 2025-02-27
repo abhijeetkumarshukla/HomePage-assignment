@@ -12,7 +12,7 @@ This project is a weather dashboard built using React, consuming the OpenWeather
 
 ## 📸 Demo
 
-[Demo Video](#) (Please add a link to a recorded demo here)
+[Demo Video](#) (https://drive.google.com/file/d/1FPRcEQaU1qXK4rj-9_bbVt9Lrti-Rhr0/view?usp=sharing)
 
 ## 🛠️ Tech Stack
 
