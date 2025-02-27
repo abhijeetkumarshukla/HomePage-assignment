@@ -17,7 +17,6 @@ This project is a weather dashboard built using React, consuming the OpenWeather
 ## 🛠️ Tech Stack
 
 - **React.js** - Frontend library
-- **Axios** - API requests
 - **Tailwind CSS / Styled Components** - Styling
 - **Logo / icon** - React icons & lucide-react
  
